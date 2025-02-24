@@ -1,2 +1,2 @@
 # Hi
-print('hello', 'k;)
+print('hello', 'k', 'c')
